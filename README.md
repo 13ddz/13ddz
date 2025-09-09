@@ -48,7 +48,7 @@
 </h2>
 <div align="center">
     <img  align="center" src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,discord,docker,github,heroku,instagram,jquery,linkedin,nextjs,regex,redux,stackoverflow,webpack,gitlab,vue,java,ai,mysql,figma,maven,powershell,materialui,postman,svg"/>
-    <a href="https://github.com/13ddz/13ddz/blob/main/gatin.gif"><img width="50px" align="left" src="https://img.icons8.com/color/48/000000/pdf.png" /></a>
+    <a href="https://raw.githubusercontent.com/13ddz/13ddz/refs/heads/main/gatin.gif"><img width="50px" align="left" src="https://img.icons8.com/color/48/000000/pdf.png" /></a>
     <img width="50px" align="right" src="https://i.gifer.com/WUUT.mp4" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ddz&show_icons=true&hide_title=true&hide_rank=true&hide_border=true"/>
     <img  align="center" style='margin-top: 55px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=13ddz&layout=compact&hide=php&theme=highcontrast"/>
