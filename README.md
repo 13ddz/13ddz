@@ -20,7 +20,7 @@
 - (Love designing layouts pixel by pixel with quality, delivering the best product experience for users/clients. Passionate about project architecture ❤️).
 - (certification)
 - ✨ The Junior of today is the Senior of tomorrow!
-- My dream is a career specializing in ().
+- My dream is a career specializing in front-end development and creating user-friendly, accessible web experiences.
 
 ---
 
