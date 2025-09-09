@@ -9,7 +9,7 @@
 
 - Hello, nice to meet you, my name is Lettycia ✍️
 - (I enjoy to learn and apply new knowledge to solve real problems 🎲)
-- (📄 You can see my CV [Here](https://raw.githubusercontent.com/13ddz/13ddz/blob/main/Lettycia_Silva_FrontEnd.pdf)
+- (📄 You can see my CV [Here](https://raw.githubusercontent.com/13ddz/13ddz/main/Lettycia_Silva_FrontEnd.pdf)
 
 ---
 
