@@ -8,7 +8,7 @@
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/13ddz)
 
 - Hello, nice to meet you, my name is Lettycia ✍️
-- (I enjoy to learn and apply new knowledge to solve real problems 🎲)
+- Passionate about turning ideas into solutions through continuous learning and hands-on coding. 💡
 - 📄 You can see my CV [Here](https://raw.githubusercontent.com/13ddz/13ddz/main/Lettycia_Silva_FrontEnd.pdf)
 
 ---
