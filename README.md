@@ -18,7 +18,7 @@
 - Full Stack Web Developer by Codi Academy, always seeking efficiency 👾 with (qtd) projects on GitHub.
 - Interested in producing quality work, aiming for efficiency so my tasks are agile, organized, and objective for the best results, always combining precision and patience.
 - (Love designing layouts pixel by pixel with quality, delivering the best product experience for users/clients. Passionate about project architecture ❤️).
-- (certification)
+- Certification FullStack 
 - ✨ The Junior of today is the Senior of tomorrow!
 - My dream is a career specializing in front-end development and creating user-friendly, accessible web experiences.
 
