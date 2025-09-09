@@ -26,7 +26,7 @@
 
 ## Codi Academy
 
-(resumo)
+I’m a Full Stack Development graduate skilled in front-end technologies like HTML, CSS, JavaScript, React, Vue.js, TypeScript, Next.js, Angular, and back-end tools including Python, C#, Java, Node.js, Express, PHP, SQL, and MongoDB. I build responsive, scalable web applications using a complete tech stack. 🤓
 
 **Hard-Skills:**
 - Full Stack Web Development
