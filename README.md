@@ -18,7 +18,7 @@
 - Full Stack Web Developer by Codi Academy, always seeking efficiency 👾 with 3 projects on GitHub.
 - Interested in producing quality work, aiming for efficiency so my tasks are agile, organized, and objective for the best results, always combining precision and patience.
 - Every line of code is a step closer to my future as a full stack developer.
-- 🎓 Check out my certificates: [Front-end](https://github.com/13ddz/13ddz/blob/main/Lettycia%20da%20SIlva%20Gomes%20-%20%20Certificado%20Front-End.pdf) | [Back-and](https://github.com/13ddz/13ddz/blob/main/Certificado%20BackEnd%20-%20Lettycia%20da%20SIlva%20Gomes.pdf).
+- 🎓 Check out my certificates: [Front-end](https://github.com/13ddz/13ddz/blob/main/Lettycia%20da%20SIlva%20Gomes%20-%20%20Certificado%20Front-End.pdf) | [Back-and](https://github.com/13ddz/13ddz/blob/main/Certificado%20BackEnd%20-%20Lettycia%20da%20SIlva%20Gomes.pdf)
 - ✨ The Junior of today is the Senior of tomorrow!
 - My dream is a career specializing in full stack development, building complete web applications with both front-end and back-end expertise.
 
