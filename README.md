@@ -48,8 +48,8 @@ I’m a Full Stack Development graduate skilled in front-end technologies like H
 </h2>
 <div align="center">
     <img  align="center" src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,discord,docker,github,heroku,instagram,jquery,linkedin,nextjs,regex,redux,stackoverflow,webpack,gitlab,vue,java,ai,mysql,figma,maven,powershell,materialui,postman,svg"/>
-    <img src="https://raw.githubusercontent.com/13ddz/13ddz/main/gatin.gif" width="50px" align="left"/>
-    <img src="https://raw.githubusercontent.com/13ddz/13ddz/main/gatin.gif" width="50px" align="right"/>
+    <img src="https://raw.githubusercontent.com/13ddz/13ddz/main/gatinn.gif" width="50px" align="left"/>
+    <img src="https://raw.githubusercontent.com/13ddz/13ddz/main/gatinn.gif" width="50px" align="right"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ddz&show_icons=true&hide_title=true&hide_rank=true&hide_border=true"/>
     <img  align="center" style='margin-top: 55px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=13ddz&layout=compact&hide=php&theme=highcontrast"/>
 </div>
