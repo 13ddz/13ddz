@@ -9,7 +9,7 @@
 
 - Hello, nice to meet you, my name is Lettycia ✍️
 - Passionate about turning ideas into solutions through continuous learning and hands-on coding. 💡
-- 📄 You can see my CV [Here](https://github.com/13ddz/13ddz/blob/main/Lettycia_Silva_Estagio_FrontEnd.pdf)
+- 📄 You can see my CV [Here]([https://github.com/13ddz/13ddz/blob/main/Lettycia_Silva_Estagio_FrontEnd.pdf](https://github.com/13ddz/13ddz/blob/main/LettyciaSilva_Junior_FullStack.pdf))
 
 ---
 
