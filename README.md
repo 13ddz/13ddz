@@ -65,4 +65,5 @@ I’m a Full Stack Development graduate skilled in front-end technologies like H
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=gradient&customColorList=0e1217,1f2937&height=120"/>
+
