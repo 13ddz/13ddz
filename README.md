@@ -1,13 +1,5 @@
 <img width="100%" 
-     src="https://capsule-render.vercel.app/api?type=transparent
-     &fontColor=ffffff
-     &text=13DDZ
-     &fontSize=60
-     &fontAlign=50
-     &fontAlignY=40
-     &height=180
-     &color=gradient
-     &customColorList=0e1217,1a1f29,2a3142" />
+     src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=13DDZ&fontSize=60&fontAlign=50&fontAlignY=40&height=180&color=gradient&customColorList=0e1217,1a1f29,2a3142" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+from+Brazil;Full+Stack+Developer+%F0%9F%91%8D;Welcome!+:%29)](https://git.io/typing-svg)<br/>
