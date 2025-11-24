@@ -1,7 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0BAA95,19F0C8&height=180&text=13DDZ&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40"/>
-
-
-
+![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=13DDZ%20&fontAlignY=40&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+from+Brazil;Full+Stack+Developer+%F0%9F%91%8D;Welcome!+:%29)](https://git.io/typing-svg)<br/>
 
 ### Contact-me
@@ -66,7 +63,7 @@ I’m a Full Stack Development graduate skilled in front-end technologies like H
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=gradient&customColorList=0f7e7e,1ee2c7&height=120"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 
 
