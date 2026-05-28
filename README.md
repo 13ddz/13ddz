@@ -7,34 +7,36 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/lettyciasilva/)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/13ddz)
 
-- Hello, nice to meet you, my name is Lettycia ✍️
-- Passionate about turning ideas into solutions through continuous learning and hands-on coding. 💡
-- 📄 You can see my CV [Here](https://github.com/13ddz/13ddz/blob/main/LettyciaSilva_Junior_FullStack.pdf)
+- Olá, prazer em conhecê-lo(a), meu nome é Lettycia ✍️
+- Apaixonada por transformar ideias em soluções por meio de aprendizado contínuo e prática de programação. 💡
+- 📄  Você pode ver meu Currículo [Here](https://github.com/13ddz/13ddz/blob/main/LettyciaSilva_Junior_FullStack.pdf)
 
 ---
 
-## RESUMO
+# Sobre mim
 
-- Full Stack Web Developer by Codi Academy, always seeking efficiency 👾 with 3 projects on GitHub.
-- Interested in producing quality work, aiming for efficiency so my tasks are agile, organized, and objective for the best results, always combining precision and patience.
-- Every line of code is a step closer to my future as a full stack developer.
-- 🎓 Check out my certificates: [Front-end](https://github.com/13ddz/13ddz/blob/main/Lettycia%20da%20SIlva%20Gomes%20-%20%20Certificado%20Front-End.pdf) | [Back-and](https://github.com/13ddz/13ddz/blob/main/Certificado%20BackEnd%20-%20Lettycia%20da%20SIlva%20Gomes.pdf)
-- ✨ The Junior of today is the Senior of tomorrow!
-- My dream is a career specializing in full stack development, building complete web applications with both front-end and back-end expertise.
+- 👾 Desenvolvedora Full Stack Web pela Codi Academy, sempre em busca de eficiência, com 3 projetos publicados no GitHub.  
+- 💡 Interessada em produzir trabalhos de qualidade, buscando eficiência para que minhas tarefas sejam ágeis, organizadas e objetivas, sempre combinando precisão e paciência.  
+- 🚀 Cada linha de código é um passo mais perto do meu futuro como desenvolvedora full stack.  
+- 🎓 Confira meus certificados: [Front-end](https://github.com/13ddz/13ddz/blob/main/Lettycia%20da%20SIlva%20Gomes%20-%20%20Certificado%20Front-End.pdf) | [Back-and](https://github.com/13ddz/13ddz/blob/main/Certificado%20BackEnd%20-%20Lettycia%20da%20SIlva%20Gomes.pdf)
+- 🌟 Meu sonho é construir uma carreira especializada em desenvolvimento full stack, criando aplicações web completas com expertise em front-end e back-end. 
 
 ---
 
 ## Codi Academy
 
-I’m a Full Stack Development graduate skilled in front-end technologies like HTML, CSS, JavaScript, React, Vue.js, TypeScript, Next.js, Angular, and back-end tools including Python, C#, Java, Node.js, Express, PHP, SQL, and MongoDB. I build responsive, scalable web applications using a complete tech stack. 🤓
+Sou graduada em Full Stack Development, com experiência em tecnologias de front-end como HTML, CSS, JavaScript, React, Vue.js, TypeScript, Next.js, Angular** e ferramentas de back-end incluindo **Python, C#, Java, Node.js, Express, PHP, SQL e MongoDB.  
+Construo aplicações web responsivas e escaláveis utilizando uma stack completa. 🤓  
 
-**Hard-Skills:**
-- Full Stack Web Development
-- Computer Fundamentals: Algorithms, Data Structures, OOP, MVC, Functional Programming, Logic
+---
 
-**Soft-Skills:**
-- Agile Methods: Git, Scrum, Kanban, Pair Programming, Code Review, Refactoring
-- Career Development
+## 🔧 Hard Skills
+- Desenvolvimento Web Full Stack  
+- Fundamentos de Computação: Algoritmos, Estruturas de Dados, POO, MVC, Programação Funcional, Lógica  
+
+## 🤝 Soft Skills
+- Métodos Ágeis: Git, Scrum, Kanban, Pair Programming, Code Review, Refatoração  
+- Desenvolvimento de Carreira  
 
 ---
 
